@@ -13,11 +13,11 @@ sklearn
 
 ## Files contained in this project
 
-echocardiogram_predict_survival.ipynb: contains project code
-echocardiogram_predict_survival.html: html version of the above notebook
-echocardiogram.DATA: contains echocardiogram dataset 
-echocardiogram.NAMES: contains description of variables
-echocardiogram.TEST: contains test/unseen data
+echocardiogram_predict_survival.ipynb: contains project code <Br>
+echocardiogram_predict_survival.html: html version of the above notebook <Br>
+echocardiogram.DATA: contains echocardiogram dataset  <Br>
+echocardiogram.NAMES: contains description of variables <Br>
+echocardiogram.TEST: contains test/unseen data <Br>
  
 
 
